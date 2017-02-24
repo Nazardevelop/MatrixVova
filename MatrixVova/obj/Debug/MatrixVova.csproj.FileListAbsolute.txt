@@ -1,0 +1,8 @@
+E:\projects\MatrixVova\MatrixVova\bin\Debug\MatrixVova.exe.config
+E:\projects\MatrixVova\MatrixVova\bin\Debug\MatrixVova.exe
+E:\projects\MatrixVova\MatrixVova\bin\Debug\MatrixVova.pdb
+E:\projects\MatrixVova\MatrixVova\obj\Debug\MatrixVova.csprojResolveAssemblyReference.cache
+E:\projects\MatrixVova\MatrixVova\obj\Debug\MatrixVova.exe
+E:\projects\MatrixVova\MatrixVova\obj\Debug\MatrixVova.pdb
+E:\projects\MatrixVova\MatrixVova\bin\Debug\ClassLibraryMatrix.dll
+E:\projects\MatrixVova\MatrixVova\bin\Debug\ClassLibraryMatrix.pdb

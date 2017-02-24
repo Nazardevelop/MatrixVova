@@ -1,0 +1,5 @@
+E:\projects\MatrixVova\ClassLibraryMatrix\bin\Debug\ClassLibraryMatrix.dll
+E:\projects\MatrixVova\ClassLibraryMatrix\bin\Debug\ClassLibraryMatrix.pdb
+E:\projects\MatrixVova\ClassLibraryMatrix\obj\Debug\ClassLibraryMatrix.csprojResolveAssemblyReference.cache
+E:\projects\MatrixVova\ClassLibraryMatrix\obj\Debug\ClassLibraryMatrix.dll
+E:\projects\MatrixVova\ClassLibraryMatrix\obj\Debug\ClassLibraryMatrix.pdb
